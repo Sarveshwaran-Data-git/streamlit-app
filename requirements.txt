@@ -1,0 +1,8 @@
+pandas
+mysql-connector-python
+transformers
+torch
+streamlit
+seaborn
+matplotlib
+google-api-python-client
